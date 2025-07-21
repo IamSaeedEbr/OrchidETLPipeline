@@ -1,0 +1,11 @@
+event_id,user_id,name,location,registration_date,event_type,timestamp,details_raw,button_id,item_id,page_url,event_date
+b1b6545c-ae2a-4696-89f0-86b16443b49f,1,Ali Ahmadi,Tehran,2022-01-15,page_view,2023-10-26 13:30:15+03:30,"{""page_url"": ""/home"", ""referrer"": null, ""duration_ms"": 5000}",,,/home,2023-10-26
+858dbda0-fef6-49e6-873d-7b28ecaf3b74,2,Sara Mohammadi,Isfahan,2022-03-10,app_open,2023-10-26 13:35:30+03:30,{},,,,2023-10-26
+1e4ada7d-def7-451d-97ec-ee3ca4741145,1,Ali Ahmadi,Tehran,2022-01-15,button_click,2023-10-26 13:36:45+03:30,"{""button_id"": ""buy_now_button"", ""page_url"": ""/product/xyz""}",buy_now_button,,/product/xyz,2023-10-26
+74b53880-f080-4969-818b-539bb29b9dfa,3,Reza Karimi,Shiraz,2022-05-20,page_view,2023-10-26 13:40:00+03:30,"{""page_url"": ""/category/electronics"", ""duration_ms"": 15000}",,,/category/electronics,2023-10-26
+7d556894-7a7a-4642-89a9-26ffc34f4b23,4,Mina Soltani,Tabriz,2022-06-01,page_view,2023-10-26 13:42:20+03:30,"{""page_url"": ""/about_us""}",,,/about_us,2023-10-26
+a1342d59-ece8-4532-85c9-19e423dd27e8,2,Sara Mohammadi,Isfahan,2022-03-10,purchase,2023-10-26 13:50:00+03:30,"{""item_id"": ""item_abc"", ""price"": 1200000, ""quantity"": 1, ""currency"": ""IRR""}",,item_abc,,2023-10-26
+a5e33d5b-210d-4a61-b291-c445b371ea1c,1,Ali Ahmadi,Tehran,2022-01-15,page_view,2023-10-26 13:55:10+03:30,"{""page_url"": ""/cart"", ""item_count"": 1}",,,/cart,2023-10-26
+76ba2226-ca8a-4780-8a35-3535220a5ca9,5,Hamid Rezaei,Mashhad,2022-07-22,app_open,2023-10-26 14:00:55+03:30,{},,,,2023-10-26
+9ec24e9d-0505-4c92-b55d-4b8c62be8952,3,Reza Karimi,Shiraz,2022-05-20,button_click,2023-10-26 14:05:00+03:30,"{""button_id"": ""filter_button"", ""filter_param"": ""price_low_to_high""}",filter_button,,,2023-10-26
+1ebb3330-75ee-4e75-bb39-63ba19e5ad73,1,Ali Ahmadi,Tehran,2022-01-15,app_close,2023-10-26 14:10:00+03:30,"{""duration_session_ms"": 2400000}",,,,2023-10-26
